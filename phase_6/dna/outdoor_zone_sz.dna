@@ -207,43 +207,31 @@ group "daisysGarden" [
     stumble [ 0.1 ]
 	width [ 2 ]
     text [
-     letters [ "C" ]
+     letters [ "W" ]
     ]
     text [
-     letters [ "H" ]
+     letters [ "O" ]
+    ]
+    text [
+     letters [ "R" ]
+    ]
+    text [
+     letters [ "K" ]
+    ]
+    text [
+     letters [ " " ]
+    ]
+	text [
+     letters [ "Z" ]
+    ]
+	text [
+     letters [ "O" ]
+    ]
+	text [
+     letters [ "N" ]
     ]
     text [
      letters [ "E" ]
-    ]
-    text [
-     letters [ " " ]
-    ]
-    text [
-     letters [ " " ]
-    ]
-	text [
-     letters [ " " ]
-    ]
-	text [
-     letters [ " " ]
-    ]
-	text [
-     letters [ " " ]
-    ]
-    text [
-     letters [ " " ]
-    ]
-    text [
-     letters [ " " ]
-    ]
-    text [
-     letters [ " " ]
-    ]
-    text [
-     letters [ " " ]
-    ]
-    text [
-     letters [ " " ]
     ]
    ]
    baseline [
